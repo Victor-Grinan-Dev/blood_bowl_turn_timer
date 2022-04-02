@@ -1,0 +1,196 @@
+
+{
+    "team":[
+    {
+        "Black Orc":{
+            "name": "Black Orc",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Chaos Chosen":{
+            "name": "Chaos Chosen",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Chaos Renegade":{
+            "name": "Chaos Renegade",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Dark Elf":{
+            "name": "Dark Elf",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Dwarf":{
+            "name": "Dwarf",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Elven Union":{
+            "name": "Elven Union",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Goblin":{
+            "name": "Goblin",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Halfling":{
+            "name": "Halfling",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Human":{
+            "name": "Human",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Imperial Nobility":{
+            "name": "Imperial Nobility",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Khorne":{
+            "name": "Khorne",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Lizardman":{
+            "name": "Lizardman",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Necromantic Horror":{
+            "name": "Necromantic Horror",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Nurgle":{
+            "name": "Nurgle",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Ogre":{
+            "name": "Ogre",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Old World Alliance":{
+            "name": "Old World Alliance",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Orc":{
+            "name": "Orc",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Shambling Undead":{
+            "name": "Shambling Undead",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Skaven":{
+            "name": "Skaven",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Snotling":{
+            "name": "Snotling",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Underworld Denizens":{
+            "name": "Underworld Denizens",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Wood Elf":{
+            "name": "Wood Elf",
+            "img": "",
+            "logo": "",
+            "isLegend": false
+        },
+        "Amazon":{
+            "name": "Amazon",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        },
+        "Chaos Dwarf":{
+            "name": "Chaos Dwarf",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        },
+        "High Elf":{
+            "name": "High Elf",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        },
+        "Norse":{
+            "name": "Norse",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        },
+        "Tomb Kings":{
+            "name": "Tomb Kings",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        },
+        "Vampire":{
+            "name": "Vampire",
+            "img": "",
+            "logo": "",
+            "isLegend": true
+        }
+    }
+]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
