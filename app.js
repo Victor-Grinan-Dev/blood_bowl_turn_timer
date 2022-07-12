@@ -15,6 +15,30 @@ const updated_mins = document.querySelector("#minsClock");
 const updated_seconds = document.querySelector("#secondsClock");
 const stopA = document.querySelector("#stopA"); 
 const stopB = document.querySelector("#stopB");
+const imageLocation = "./logos/teams/";
+const logos = [
+    "chaos.png",
+    "darkelfs.png",
+    "deamons.png",
+    "duarfs.png",
+    "gobblins.png",
+    "halflings.png",
+    "humans.png",
+    "imperialhumans.png",
+    "khorn.png",
+    "lizardmen.png",
+    "lizardmen2.png",
+    "lizardmen3.png",
+    "necromantics.png",
+    "nurgle.png",
+    "pinkorks.png",
+    "redbulls.png",
+    "rotten_scaven_gobblings.png",
+    "scaven.png",
+    "vampirecounts.png",
+    "vampirecunts.png",
+    "vikings.png",
+];
 
 //declaretion
 const ring = new Audio("ring.wav");
@@ -172,13 +196,11 @@ const appStart = (e) => {
         console.log("playerA activated")
         activatePlayerA()
 
-
     }else if(e.path[0].id == "playerB"){
         console.log("playerB activated")
         activatePlayerB()
     }
 }
-
 
 //event listeners
 minus.addEventListener("click", subs);
